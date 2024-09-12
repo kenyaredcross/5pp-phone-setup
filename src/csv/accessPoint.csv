@@ -1,0 +1,4 @@
+Provider Name,APN,Username,Password,Proxy,Port,MMSC,MMS Proxy,MMS Port,MCC,MNC
+MTN,internet,,12345,,,http://mms.mtnzambia.co.zm,,,645,1
+Airtel,internet,,12345,,,http://mms.airtelzm.com,,,645,2
+Zamtel,internet,,12345,,,http://mms.zamtel.co.zm,,,645,3

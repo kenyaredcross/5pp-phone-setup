@@ -1,0 +1,15 @@
+{
+  "echis": {
+    "path": [
+      "C:\\Users\\LennoxMwita(Intern)\\Desktop\\androix2\\app\\src\\apks\\base.apk",
+      "C:\\Users\\LennoxMwita(Intern)\\Desktop\\androix2\\app\\src\\apks\\split_config.xxhdpi.apk"
+    ],
+    "checked": true
+  },
+  "whatsapp": {
+    "path": [
+      "C:\\Users\\LennoxMwita(Intern)\\Desktop\\androix2\\app\\src\\apks\\WhatsApp Messenger_2.24.9.20_Apkpure.apk"
+    ],
+    "checked": true
+  }
+}

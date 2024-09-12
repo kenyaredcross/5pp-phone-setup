@@ -1,0 +1,353 @@
+﻿team,health facility,title,name
+Team 1,Mutwewankoko RHC ,VOLUNTEER,Lukwesa  Chisanga Mwilu
+Team 1,Mutwewankoko RHC ,VOLUNTEER,Chilufya  Danny 
+Team 1,Mutwewankoko RHC ,VOLUNTEER,Sydney  Chishimba 
+Team 1,Mutwewankoko RHC ,VOLUNTEER,Agnes  Mwewa
+Team 1,Mutwewankoko RHC ,VOLUNTEER,Beauty  Mambwe
+Team 1,Chisunka Mini Hospital ,VOLUNTEER,Chilufya  Gideon
+Team 1,Chisunka Mini Hospital ,VOLUNTEER,Mwilu Patricia 
+Team 1,Chisunka Mini Hospital ,VOLUNTEER,Sondashi Patrick 
+Team 1,Chisunka Mini Hospital ,VOLUNTEER,Mulenga  Mark
+Team 1,Chisunka Mini Hospital ,VOLUNTEER,Kaoma Andrew
+Team 2,Mano RHC,VOLUNTEER,Sumaili  Musonda
+Team 2,Mano RHC,VOLUNTEER,Mutasama Clarence
+Team 2,Mano RHC,VOLUNTEER,Chola Daniel
+Team 2,Mano RHC,VOLUNTEER,Mwape  James
+Team 2,Mano RHC,VOLUNTEER,Lubala Ruth
+Team 2,Mano RHC,VOLUNTEER,Musonda Silica
+Team 2,Mano RHC,VOLUNTEER,Daka Blessings
+Team 2,Mano RHC,VOLUNTEER,Chola Friday
+Team 2,Mano RHC,VOLUNTEER,Musonda James
+Team 2,Mano RHC,VOLUNTEER,Bwale  Sammuel
+Team 3,Edgar Chungu Mini Hosp,VOLUNTEER,Chalwe Agness
+Team 3,Edgar Chungu Mini Hosp,VOLUNTEER,Mwape Richard
+Team 3,Edgar Chungu Mini Hosp,VOLUNTEER,Kapya Fidelis
+Team 3,Edgar Chungu Mini Hosp,VOLUNTEER,Kabwe Francis
+Team 3,Edgar Chungu Mini Hosp,VOLUNTEER,Chibwe Mirriam
+Team 3,Edgar Chungu Mini Hosp,VOLUNTEER,Chibunde Chitalu
+Team 3,Edgar Chungu Mini Hosp,VOLUNTEER,Chipulu Evans
+Team 3,Edgar Chungu Mini Hosp,VOLUNTEER,Mwaba Pascal
+Team 3,Edgar Chungu Mini Hosp,VOLUNTEER,Chikumbi Bruce
+Team 3,Edgar Chungu Mini Hosp,VOLUNTEER,Kabaso Benny
+Team 4,Mutiti RHC,VOLUNTEER,Namwawa Luwizya
+Team 4,Mutiti RHC,VOLUNTEER,Kasongo Hornsby
+Team 4,Mutiti RHC,VOLUNTEER,Mwila Nobby
+Team 4,Chimfula RHC,VOLUNTEER,Chibuye Maybin
+Team 4,Kasamba RHC,VOLUNTEER,Mulenga Cecilia
+Team 4,Mutiti RHC,VOLUNTEER,Kapekele Purity
+Team 4,Mutiti RHC,VOLUNTEER,Kalukwembe Theresa
+Team 4,Chimfula RHC,VOLUNTEER,Chibale Fredrick
+Team 4,Kasamba RHC,VOLUNTEER,Chibale Mcknight
+Team 4,Kasamba RHC,VOLUNTEER,Kampwe Mwewa
+Team 5,Moloshi RHC ,VOLUNTEER,Chabala  Violet 
+Team 5,Moloshi RHC,VOLUNTEER,Chama Davies 
+Team 5,Moloshi RHC,VOLUNTEER,Nyirenda Robert 
+Team 5,Moloshi RHC,VOLUNTEER,Chimuka Bbuyumba
+Team 5,Moloshi RHC,VOLUNTEER,Evans Mwansa
+Team 5,Moloshi RHC,VOLUNTEER,Musaka Godfrey 
+Team 5,Moloshi RHC,VOLUNTEER,Mwila Edward 
+Team 5,Moloshi RHC,VOLUNTEER,Izukanji Siwelwa
+Team 5,Moloshi RHC,VOLUNTEER,Bweupe Annie 
+Team 5,Moloshi RHC,VOLUNTEER,Chola Emmanuel 
+Team 6,NDOBA RHC,VOLUNTEER,Mwansa Abraham
+Team 6,NDOBA RHC,VOLUNTEER,Mwape Moses
+Team 6,NDOBA RHC,VOLUNTEER,Sakala Dingiswayo
+Team 6,NDOBA RHC,VOLUNTEER,Naomi  Mumba
+Team 6,NDOBA RHC,VOLUNTEER,Emmanuel  Chisala
+Team 6,SEPE RHC,VOLUNTEER,Grace Nsakanya
+Team 6,SEPE RHC,VOLUNTEER,Brian  Chikontwe
+Team 6,NDOBA RHC,VOLUNTEER,Gibson  Chola
+Team 6,NDOBA RHC,VOLUNTEER,Moses Katebe
+Team 6,KASASE RHC,VOLUNTEER,Bizmark Kaputo
+Team 7,Mashimi Health Post ,VOLUNTEER,Musaba Elizabeth 
+Team 7,Mashimi Health Post ,VOLUNTEER,Chilufya  Simon 
+Team 7,Mashimi Health Post ,VOLUNTEER,Mpundu  Gabriel 
+Team 7,Mibenge RHC ,VOLUNTEER,Namwinga  Anna
+Team 7,Mibenge RHC ,VOLUNTEER,Sakata Persidah
+Team 7,Mibenge RHC ,VOLUNTEER,Chilambe Cynthia 
+Team 7,Mibenge RHC ,VOLUNTEER,Kaluba Lewis 
+Team 7,Mibenge RHC ,VOLUNTEER,Mwewa Kalande
+Team 7,Nacibibi Hospital ,VOLUNTEER,Mumba Brian
+Team 7,Nacibibi Hospital ,VOLUNTEER,Chipulu Dixon
+Team 8,Musaila RHC,VOLUNTEER,Kanika Melody
+Team 8,Musaila RHC,VOLUNTEER,Chikonde Martha
+Team 8,Musaila RHC,VOLUNTEER,Kabeshi Lewis
+Team 8,Musaila RHC,VOLUNTEER,Yamishi Chibamba
+Team 8,Musaila RHC,VOLUNTEER,Mambwe Dalisto
+Team 8,Musaila RHC,VOLUNTEER,Mwanza Micheal
+Team 8,Musaba HP,VOLUNTEER,Namusukuma Miranda
+Team 8,Musaba HP,VOLUNTEER,Malama Charles
+Team 8,Mwanda HP,VOLUNTEER,Lushinga Pervious
+Team 8,Mwanda HP,VOLUNTEER,Mumba Damson
+Team 9,Musaika HP,VOLUNTEER,Dube David 
+Team 9,Lubende RHC ,VOLUNTEER,Kanja  Hope
+Team 9,Kapisha HP,VOLUNTEER,Mumba  Joseph 
+Team 9,Lubende RHC ,VOLUNTEER,Sunga Bridget 
+Team 9,Lubende RHC ,VOLUNTEER,Zimba Violet 
+Team 9,Lubende RHC ,VOLUNTEER,Mwelwa Shiprah
+Team 9,Lubende RHC,VOLUNTEER,Mwewa Francisca
+Team 9,Lubende RHC ,VOLUNTEER,Robert  Munungwe
+Team 9,Kapisha HP ,VOLUNTEER,Rabbyson Mumbi
+Team 9,Musaika HP,VOLUNTEER,Daniel  Chibwe
+Team 10, NSONGA RURAL HEALTH CENTRE,VOLUNTEER,Mvula Lazarous
+Team 10, NSONGA RURAL HEALTH CENTRE,VOLUNTEER,Kapangala Lastone
+Team 10, NSONGA RURAL HEALTH CENTRE,VOLUNTEER,Chipulu Patricia
+Team 10, NSONGA RURAL HEALTH CENTRE,VOLUNTEER,Stain Kaapungwe
+Team 10, NSONGA RURAL HEALTH CENTRE,VOLUNTEER,Chita Jessica
+Team 10,JAMES HEALTH POST,VOLUNTEER,Derrick Mwansa
+Team 10,JAMES HEALTH POST,VOLUNTEER,Kasongo Mary
+Team 10,JAMES HEALTH POST,VOLUNTEER,Phiri Abrahamson
+Team 10,JAMES HEALTH POST,VOLUNTEER,Sara  Banda
+Team 10,JAMES HEALTH POST,VOLUNTEER,Mambwe Julius
+Team 11,kale rhp,VOLUNTEER,Fyando Fridah
+Team 11, mufuma rhp,VOLUNTEER,Mapulanga Lawrence
+Team 11,mupita rhp,VOLUNTEER,Munsu Alex
+Team 11,mupofwe rhp,VOLUNTEER,Chin'gandu Esther
+Team 11,lukali rhp,VOLUNTEER,Katebe Brian
+Team 11,kasenga,VOLUNTEER,Kaputo Mwenda
+Team 11,kasenga rhp,VOLUNTEER,Nevers Chisamba
+Team 11,Kale rhp,VOLUNTEER,Semba Musumali
+Team 11,mupofwe rhp,VOLUNTEER,Kauseni Joseph
+Team 11,mupita rhp,VOLUNTEER,Chitambo Fewdays
+Team 12,MABUMBA,VOLUNTEER,Chembe Prisca
+Team 12,MABUMBA,VOLUNTEER,Lutuba Catherine
+Team 12,MABUMBA,VOLUNTEER,Kalaba Patricia 
+Team 12,CHISONGO,VOLUNTEER,Lengwe Memory
+Team 12,MONGA,VOLUNTEER, Kabobwe Amos
+Team 12,MABUMBA,VOLUNTEER,Muma Stephen
+Team 12,MONGA,VOLUNTEER,Mwansa Modest
+Team 12,CHISONGO,VOLUNTEER,Chama Wilaba Innocent
+Team 12,CHISONGO,VOLUNTEER,Bwalya Gladys Mupeta
+Team 12,MONGA,VOLUNTEER,Mboshe Clara
+Team 13,MANTUMBUSA RHC,VOLUNTEER,Penge Constantino
+Team 13,MANTUMBUSA RHC,VOLUNTEER,Mutaka Mary 
+Team 13,MANTUMBUSA RHC,VOLUNTEER,Kasempa Inedy
+Team 13,MANTUMBUSA RHC,VOLUNTEER,Bwalya Felix
+Team 13,MANTUMBUSA RHC,VOLUNTEER,Musamba John
+Team 13,MANTUMBUSA RHC,VOLUNTEER,Chilufya Musonda
+Team 13,MANTUMBUSA RHC,VOLUNTEER,Banda Beauty
+Team 13,MANTUMBUSA RHC,VOLUNTEER,Kasempa  Lovemore
+Team 13,MANTUMBUSA RHC,VOLUNTEER,Chibesa Gilbert
+Team 13,MANTUMBUSA RHC,VOLUNTEER,Chibenga Mary
+Team 14,KATANGWE,VOLUNTEER,Ngonga Chaka
+Team 14,KATANGWE,VOLUNTEER,Mumba Micheal
+Team 14,KATANGWE,VOLUNTEER,Bupe Elizabeth
+Team 14,KATANGWE,VOLUNTEER,Chilufya  Cacious
+Team 14,KATANGWE,VOLUNTEER,Lupiya David
+Team 14,KATANGWE,VOLUNTEER,Kunda Racheal
+Team 14,KATANGWE,VOLUNTEER,Tembo  Ackson
+Team 14,KATANGWE,VOLUNTEER,Mutale Elison Kanyangala
+Team 14,KATANGWE,VOLUNTEER,Mpundu Kelvin
+Team 14,KATANGWE,VOLUNTEER,Ndumba Sharon
+Team 15,muwanguni ,VOLUNTEER,Chali Gerald 
+Team 15,muwanguni ,VOLUNTEER,Kunda  Nkandu
+Team 15,mikula ,VOLUNTEER,Nkolomba  Wezi 
+Team 15,muwanguni ,VOLUNTEER,Witika Magdaline
+Team 15,muwanguni ,VOLUNTEER,Bwalya  Peter 
+Team 15,muwanguni ,VOLUNTEER,Mwale Bina
+Team 15,muwanguni ,VOLUNTEER,Ngosa Loveness 
+Team 15,lukangaba,VOLUNTEER,Kaoma  Grace 
+Team 15,misenga,VOLUNTEER,Kasongo  Danny 
+Team 15,muwanguni ,VOLUNTEER,Lungula  Joseph 
+Team 16,Matenda ,VOLUNTEER,Kapinga  Bupe Memoery 
+Team 16,Fimpulu ,VOLUNTEER,Mvula  Jessy 
+Team 16,Fimpulu ,VOLUNTEER,Matipa Josephine 
+Team 16,Changila,VOLUNTEER,Mwape Suzen
+Team 16,Changila,VOLUNTEER,Mwewa Funny 
+Team 16,Matenda ,VOLUNTEER,Musenge Cosmas
+Team 16,Fimpulu ,VOLUNTEER,Mbaluwa Gilbert
+Team 16,Changila,VOLUNTEER,Mofya Brendah
+Team 16,Malamba,VOLUNTEER,Chobela Manase
+Team 16,Malamba,VOLUNTEER,Masekete Judith
+Team 17,Kalyongo RHC ,VOLUNTEER,Kunda Pascal
+Team 17,Kosamu MH,VOLUNTEER,Luyando  Chaaba 
+Team 17,Kosamu MH,VOLUNTEER,Mulenga Loveness
+Team 17,Mabo RHC ,VOLUNTEER,Chansa Fergus
+Team 17,Mabo RHC ,VOLUNTEER,Silungwe  Moses
+Team 17,Kosamu RHC ,VOLUNTEER,Mwewa Evans
+Team 17,Kosamu RHC ,VOLUNTEER,Chanda  Sylan 
+Team 17,Kalyongo RHC ,VOLUNTEER,Chilufya  Yvonne 
+Team 17,Mabo RHC ,VOLUNTEER,Kabengele Nyemba
+Team 17,Kalyongo RCH,VOLUNTEER,Mwaba Damaless
+Team 18,Matanda Rural Heath Center ,VOLUNTEER,Musuku Lazarus
+Team 18,Matanda Rural Heath Center ,VOLUNTEER,Mwewa Benard 
+Team 18,Matanda Rural Heath Center ,VOLUNTEER,Chansa  Mirriam
+Team 18,Matanda Rural Heath Center ,VOLUNTEER,Mwandwe Silvia
+Team 18,Matanda Rural Heath Center ,VOLUNTEER,Fala Christine
+Team 18,Matanda Rural Heath Center ,VOLUNTEER,Mambepa Gibson
+Team 18,Matanda Rural Heath Center ,VOLUNTEER,Miyambo Enock
+Team 18,Matanda Rural Health Center ,VOLUNTEER,Charity  Mumba
+Team 18,Matanda Rural Heath Center ,VOLUNTEER,Jackson Nsonga
+Team 18,Matanda Rural Heath Center ,VOLUNTEER,Dominic  Chipamba
+Team 19,Chansa Rural Health Post ,VOLUNTEER,Mwanza  Gondwe
+Team 19,Chansa Rural Health Post,VOLUNTEER,Mupeta Kelvin
+Team 19,Paul Mambilima Rural Health Centre ,VOLUNTEER,Mwansa  Richard
+Team 19,Paul Mambilima Rural Health Centre  ,VOLUNTEER,Kasongo Daniel
+Team 19,Musesha  Rural Health Post,VOLUNTEER,Mubanga Elijah
+Team 19,Paul Mambilima Rural Health Centre ,VOLUNTEER,Katebe  Dickson
+Team 19,Musesha Rural Health Post ,VOLUNTEER,Josephine  Mubanga .M
+Team 19,Paul Mambilima Rural Health Centre ,VOLUNTEER,Kambale  Evaristo .M
+Team 19,Paul Mambilima Rural Health Centre ,VOLUNTEER,Mpundu  Justin 
+Team 19,Paul Mambilima Rural Health Centre ,VOLUNTEER,Mibenge Valentine
+Team 20,LUAMFUMU,VOLUNTEER,Diana Bwalya
+Team 20,LUAMFUMU,VOLUNTEER,Evancy Mwape
+Team 20,LUAMFUMU,VOLUNTEER,Webby Chabala
+Team 20,LUAMFUMU,VOLUNTEER,Lucy Chikuma
+Team 20,CHENGO ,VOLUNTEER,Tido Muunzu
+Team 20,CHENGO ,VOLUNTEER,Mwape Mushili
+Team 20,CHILILA,VOLUNTEER,Clement Mambwe
+Team 20,CHENGO ,VOLUNTEER,Geofrey Mambwe
+Team 20,CHILILA,VOLUNTEER,Musabi Mwansa
+Team 20,CHILILA,VOLUNTEER,Aubrey  Sichone
+Team 21,Chisembe RHC ,VOLUNTEER,Mwila Harrison 
+Team 21,Chisembe RHC ,VOLUNTEER,Lengwe  Timothy 
+Team 21,Chisembe RHC ,VOLUNTEER,Musonda  Esther 
+Team 21,Chisembe RHC ,VOLUNTEER,Mumba  Mary
+Team 21,Chisembe RHC ,VOLUNTEER,Musonda  Dominic 
+Team 21,Chisembe RHC ,VOLUNTEER,Kaluba  Beatrice 
+Team 21,Chisembe RHC ,VOLUNTEER,Nkandu  Febby 
+Team 21,Chisembe RHC ,VOLUNTEER,Kabungo James
+Team 21,Chisembe RHC ,VOLUNTEER,Makala  Dainah
+Team 21,Chisembe RHC ,VOLUNTEER,Chama Royd
+Team 22,Fiyongoli,VOLUNTEER,Kapya Faith Chitalu
+Team 22,Fiyongoli,VOLUNTEER,Kankwile Veronica
+Team 22,Fiyongoli,VOLUNTEER,Mumpashya Ethel
+Team 22,Fiyongoli,VOLUNTEER,Namwinga Blessings
+Team 22,Fiyongoli,VOLUNTEER,Chungu Emmanuel
+Team 22,Red Cross,VOLUNTEER,Mwila Doreen
+Team 22,Red Cross,VOLUNTEER,Musonda Clement
+Team 22,Red Cross,VOLUNTEER,Mwansa Rosemary
+Team 22,Red Cross,VOLUNTEER,Mwansa Agness
+Team 22,Red Cross,VOLUNTEER,Mwansa Regina
+Team 23,Mwanachama ,VOLUNTEER,Siamasandu Peter
+Team 23,Mwanachama ,VOLUNTEER,Kapota Cephas
+Team 23,Mwanachama ,VOLUNTEER,Kapungwe  Jonathan 
+Team 23,Mwanachama ,VOLUNTEER,Kaunda Trasicious
+Team 23,Mwanachama ,VOLUNTEER,Mirrian  Nachinga
+Team 23,Mwanachama ,VOLUNTEER,Mulenga Paul 
+Team 23,Mwanachama ,VOLUNTEER,Lilian  Nkole
+Team 23,Mwanachama ,VOLUNTEER,Mutanti Ireen
+Team 23,Mwanachama ,VOLUNTEER,Nonde Joseph 
+Team 23,Mwanachama ,VOLUNTEER,Ndoba Innocent 
+Team 24,Senama first level ,VOLUNTEER,Mumba  Mathews 
+Team 24,Senama first level ,VOLUNTEER,Kaunda  Enos
+Team 24,Senama first level ,VOLUNTEER,Ngoyi Stephen
+Team 24,Senama first level ,VOLUNTEER,Musunga  Mwewa
+Team 24,Senama first level ,VOLUNTEER,Kasonta  Kasuba
+Team 24,Senama first level ,VOLUNTEER,Kaira Jean
+Team 24,Senama first level ,VOLUNTEER,Mulenga Jasper
+Team 24,Senama first level ,VOLUNTEER,Mungole Martha
+Team 24,Senama first level ,VOLUNTEER,Chanda Chalwe
+Team 24,Senama first level ,VOLUNTEER,Kambale Hildah
+Team 25,KAPANDA MIN HOSPITAL,VOLUNTEER,Mushibwe Gregory
+Team 25,KAPANDA MIN HOSPITAL,VOLUNTEER,Mwila Agness
+Team 25,KABUNDA RHC,VOLUNTEER,Chabala Augustine
+Team 25,KABUNDA RHC,VOLUNTEER,Kunda Hildah
+Team 25,KABUNDA RHC,VOLUNTEER,Kapya Naomi
+Team 25,KABUNDA RHC,VOLUNTEER,Kapompo Alice
+Team 25,KABUNDA RHC,VOLUNTEER,Ngandwe Smart
+Team 25,KAPANDA MIN HOSPITAL,VOLUNTEER,Chama Charity
+Team 25,KAPANDA MIN HOSPITAL,VOLUNTEER,Mubanga Albert
+Team 25,KAPANDA MIN HOSPITAL,VOLUNTEER,Kaoma Theresa
+Team 26,Matero,VOLUNTEER,Chilufya Geoffrey
+Team 26,Matero,VOLUNTEER,Mwale  Margret 
+Team 26,Matero,VOLUNTEER,Kalaba Spider
+Team 26,Matero,VOLUNTEER,Chalwe  Pelijah
+Team 26,Matero,VOLUNTEER,Ngandwe Bertha
+Team 26,Matero,VOLUNTEER,Chilufya  Iaan
+Team 26,Matero,VOLUNTEER,Mwansa  Joyce
+Team 26,Matero,VOLUNTEER,Chushi Dickson
+Team 26,Matero,VOLUNTEER,Kamukwamba Everlyn 
+Team 26,Matero,VOLUNTEER,Mwansa  Alex
+Team 27,MULONGA RHC,VOLUNTEER,Mwaba Jackson
+Team 27,MULONGA RHC,VOLUNTEER,Mpundu  Lameck
+Team 27,MIPOLOMBO,VOLUNTEER,Kaseketi Austin Chansa
+Team 27,MIPOLOMBO,VOLUNTEER,Kunda Christopher
+Team 27,MIPOLOMBO,VOLUNTEER,Chalwe Mildred
+Team 27,KANSEKE,VOLUNTEER,Bwalya Alfred
+Team 27,CHIKONSHI,VOLUNTEER,Kasawa K. Kelvin 
+Team 27,CHIKONSHI,VOLUNTEER,Mambwe Innocent
+Team 27,KANSEKE,VOLUNTEER,Mwewa Micheal 
+Team 27,MIPOLOMBO,VOLUNTEER,Nkandu  Sydney
+Team 28,Fabale HP,VOLUNTEER,Kambafwile  Annie 
+Team 28,Fibale HP,VOLUNTEER,Chabala  Jededai
+Team 28,Fibale HP,VOLUNTEER,Kasapo Memory 
+Team 28,Fibale HP,VOLUNTEER,Chilufya  Emeldah 
+Team 28,Fibale HP,VOLUNTEER,Mwendabai David
+Team 28,Fibale HP,VOLUNTEER,Chiwama  Veracious 
+Team 28,Kapompwe HP,VOLUNTEER,Sitali  Gloria 
+Team 28,Kapompwe HP,VOLUNTEER,Phiri  Nelly
+Team 28,Masaba HP,VOLUNTEER,Muwa Alex
+Team 28,Masaba HP,VOLUNTEER,Museba  Chikumbi
+Team 29,Buntungwa Urban Clinic ,VOLUNTEER,Kasompe Jonathan
+Team 29,Buntungwa Urban Clinic ,VOLUNTEER,Mwansa Wisdom
+Team 29,Buntungwa Urban Clinic ,VOLUNTEER,Nsensema Mushinka
+Team 29,Buntungwa Urban Clinic ,VOLUNTEER,Chungu Abel
+Team 29,Buntungwa Urban Clinic ,VOLUNTEER,Chikumbi Gladys
+Team 29,Buntungwa urban Clinic ,VOLUNTEER,Mwenge Cleopatra
+Team 29,Buntungwa Urban Clinic,VOLUNTEER,Kabwe Emeldah
+Team 29,Buntungwa Urban Clinic ,VOLUNTEER,Mwansa Abeauty
+Team 29,Buntungwa Urban Clinic,VOLUNTEER,Chibwe Owab
+Team 29,Buntungwa Urban Clinic,VOLUNTEER,Sunga Sharon
+Team 30,Central Urban Clinic,VOLUNTEER,Musonda George
+Team 30,Central Urban Clinic,VOLUNTEER,Muchena Febby
+Team 30,Central Urban Clinic,VOLUNTEER,Chungu Abeauty
+Team 30,Central Urban Clinic,VOLUNTEER,Musonda Charles
+Team 30,Central Urban Clinic,VOLUNTEER,Ndumba Gwen
+Team 30,Central Urban Clinic,VOLUNTEER,Lukonde Cephas
+Team 30,Central Urban Clinic,VOLUNTEER,Mukuya Emmah
+Team 30,Central Urban Clinic,VOLUNTEER,Mwachyaba Annastasia
+Team 30,Central Urban Clinic,VOLUNTEER,Musonda Eusebious
+Team 30,Central Urban Clinic,VOLUNTEER,Mutale Jeff
+Team 31,KASONGO MINI HOSPITAL,VOLUNTEER,Chibwe  Lazarous
+Team 31,KASONGO MINI HOSPITAL,VOLUNTEER,Kasongo Mwewa
+Team 31,KASONGO MINI HOSPITAL,VOLUNTEER,Mutambo Clara
+Team 31,KASONGO MINI HOSPITAL,VOLUNTEER,Makasa John
+Team 31,KASONGO MINI HOSPITAL,VOLUNTEER,Ngosa  Oscar
+Team 31,KASONGO MINI HOSPITAL,VOLUNTEER,Mwewa Mark
+Team 31,KASONGO MINI HOSPITAL,VOLUNTEER,Kapaya Molly
+Team 31,KASONGO MINI HOSPITAL,VOLUNTEER,Besa Loveness
+Team 31,KASONGO MINI HOSPITAL,VOLUNTEER,Kasongo Daniel
+Team 31,KASONGO MINI HOSPITAL,VOLUNTEER,Musonda Mathews
+Team 32,Sumbu HP,VOLUNTEER,Kateu Violet
+Team 32,Sumbu HP,VOLUNTEER,Namukoko Majory
+Team 32,Sumbu HP,VOLUNTEER,Bwalya Elijah
+Team 32,Sumbu HP,VOLUNTEER,Mwansa Joan
+Team 32,Sumbu HP,VOLUNTEER,Musonda  Mildred
+Team 32,Sumbu HP,VOLUNTEER,Zulu Lilian
+Team 32,Sumbu HP,VOLUNTEER,Mpundu Yumba
+Team 32,Sumbu HP,VOLUNTEER,Chalwe Clara
+Team 32,Sumbu HP,VOLUNTEER,Musumali Getrude
+Team 32,Sumbu HP,VOLUNTEER,Chisunka  Chola
+Team 33,Musumali ,VOLUNTEER,Kabo Lucy
+Team 33,Musumali ,VOLUNTEER,Mwewa  Elizabeth 
+Team 33,Musumali ,VOLUNTEER,Chama Evans
+Team 33,Musumali ,VOLUNTEER,Mwansa  James 
+Team 33,Musumali ,VOLUNTEER,Pintu Isaac
+Team 33,Musumali ,VOLUNTEER,Mwansa  Barnabas Miracle 
+Team 33,Musumali ,VOLUNTEER,Nkandu  Maclean
+Team 33,Musumali ,VOLUNTEER,Mwansa  David 
+Team 33,Musumali ,VOLUNTEER,Kunda Bruce
+Team 33,Musumali ,VOLUNTEER,Mwansa  Mary
+Team 34,Namwandwe Health Post,VOLUNTEER,Longolongo Kelvin 
+Team 34,Namwandwe Health Post,VOLUNTEER,Chibesa Mirriam
+Team 34,Namwandwe Health Post,VOLUNTEER,Mwila Alex
+Team 34,Namwandwe Health Post,VOLUNTEER,Mwandwe Juliet
+Team 34,Namwandwe Health Post,VOLUNTEER,Mwila Jonnathan
+Team 34,Namwandwe Health Post,VOLUNTEER,Kashitala Benon
+Team 34,Namwandwe Health Post,VOLUNTEER,Lombanya Benny Steven
+Team 34,Namwandwe Health Post,VOLUNTEER,Ngoyi Boas Kasapo
+Team 34,Namwandwe Health Post,VOLUNTEER,Chola Musanda
+Team 34,Namwandwe Health Post,VOLUNTEER,Chola Rex Mwale
+Mobile Team 1,Mobile team,VOLUNTEER,Bwembya Bernadette 
+Mobile Team 1,Mobile team,VOLUNTEER,Kaunda Merit
+Mobile Team 1,Mobile team,VOLUNTEER,Kabwe Delphine
+Mobile Team 1,Mobile team,VOLUNTEER,Mwewa Romeos
+Mobile Team 1,Mobile team,VOLUNTEER,Chama Emmanuel 
+Mobile Team 1,Mobile team,VOLUNTEER,Kasanda Champo
+Mobile Team 2,Mobile team,VOLUNTEER,Nsani Marjory 
+Mobile Team 2,Mobile team,VOLUNTEER,Charity  Mwansa
+Mobile Team 2,Mobile team,VOLUNTEER,Mukoma Precious 
+Mobile Team 2,Mobile team,VOLUNTEER,Mwansa Mary
+Mobile Team 2,Mobile team,VOLUNTEER,Bowa Mary
+Mobile Team 2,Mobile team,VOLUNTEER,Nkhwachi  Zgambo
